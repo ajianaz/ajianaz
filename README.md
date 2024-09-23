@@ -10,7 +10,7 @@
 
 - 👋 Hi, I’m @ajianaz
 - 👀 I’m interested in Flutter, NodeJS, etc
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently Fullstack Mobile Developer
 
 ---
 
